@@ -1,3 +1,5 @@
 /data
 backend/backend/__pycache__
 backend/dashboard/migrations/
+frontend/node_modules
+.DS_STORE
